@@ -1,8 +1,11 @@
-### Hi there, I'm <a href="https://github.com/sqasimalis" target="_blank">Syed Qasim Ali Shah</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm <a href="https://github.com/sqasimalis" target="_blank">Syed Qasim Ali Shah</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">&ensp; ![Github Followers Badge](https://img.shields.io/github/followers/sqasimalis?label=Followers&logo=github)
 
-![Github Followers Badge](https://img.shields.io/github/followers/sqasimalis?label=Followers&logo=github)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/syedqasimalishah)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/SQasimAliS)
+<a href="https://twitter.com/SQasimAliS">
+  <img align="left" alt="Syed Qasim Ali Shah | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/syedqasimalishah">
+  <img align="left" alt="Syed Qasim Ali Shah | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a></br>
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=sqasimalis)
 

@@ -9,7 +9,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=sqasimalis)
 
-I am a Junior Software Engineer (iOS Developer). I love programming, photography and traveling.
+I love programming, photography and traveling.
 
 **Languages and Tools:**
 

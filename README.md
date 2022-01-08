@@ -2,9 +2,6 @@
 
 <a href="https://www.linkedin.com/in/syedqasimalishah">
   <img align="left" alt="Syed Qasim Ali Shah | LinkedIN" width="25" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://twitter.com/SQasimAliS">
-  <img align="left" alt="Syed Qasim Ali Shah | Twitter" width="25" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a></br>
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=sqasimalis)

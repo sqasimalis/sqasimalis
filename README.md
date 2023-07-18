@@ -1,6 +1,6 @@
 ### Hi there, I'm <a href="https://github.com/sqasimalis" target="_blank">Syed Qasim Ali Shah</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">&ensp; ![Github Followers Badge](https://img.shields.io/github/followers/sqasimalis?label=Followers&logo=github)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=sqasimalis)
+### Glad to see you here!
 
 I love programming, photography, and traveling.
 
